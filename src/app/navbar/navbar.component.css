@@ -1,0 +1,24 @@
+@keyframes colorChange{
+    0%{
+        color: black;
+    }
+    20%{
+        color: red;
+    }
+    40%{
+        color: yellowgreen;
+    }
+    60%{
+        color: blue;
+    }
+    80%{
+        color: brown;
+    }
+    100%{
+        color: black;
+    }
+}
+
+.demo{
+    animation: colorChange infinite 10s;
+}

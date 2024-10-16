@@ -1,0 +1,56 @@
+{
+  "students": [
+    {
+      "id": "bf6e",
+      "fname": "Pooja",
+      "lname": "Nimkar",
+      "address": "Shivaji Nagar",
+      "gender": "female",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "5/12/2000",
+      "pincode": "445203",
+      "course": "Full stack java",
+      "email": "pooja@gmail.com"
+    },
+    {
+      "id": "4b66",
+      "fname": "Shruti",
+      "lname": "Dudhe",
+      "address": "Kothrude",
+      "gender": "female",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "22/09/2002",
+      "pincode": "445121",
+      "course": "Data Science",
+      "email": "shruti@gmail.com"
+    },
+    {
+      "id": "8e8f",
+      "fname": "Pritam",
+      "lname": "Nimkar",
+      "address": "Baripura",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "31/12/1996",
+      "pincode": "445203",
+      "course": "Accounting",
+      "email": "pritam@gmail.com"
+    },
+    {
+      "id": "1840",
+      "fname": "shobha",
+      "lname": "nimkar",
+      "address": "baripura",
+      "gender": "female",
+      "state": "Maharashtra",
+      "city": "Digras",
+      "dob": "22/09/2002",
+      "pincode": "445203",
+      "course": "Accounting",
+      "email": "shobha@gmail.com"
+    }
+  ]
+}
